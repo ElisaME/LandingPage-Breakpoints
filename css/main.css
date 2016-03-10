@@ -1,0 +1,29 @@
+/* Tu CSS va aqui */
+#header a{
+	padding-right: 2%;
+}
+#info{
+	background-color: #919191;
+	padding: 2%;
+}
+.logo{
+	max-width: 40%;
+}
+.form{
+	background-color: #B5B5B5;
+	border-radius: 10px;
+	padding: 2%;
+	width: 60%;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: #919191;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.mb-2{
+	margin-bottom: 2%;
+}
